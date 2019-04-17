@@ -1,7 +1,7 @@
 # ZhaJinHuaGameOfGolang
 扎金花Demo。目的：golang语言学习实战。。
 
-简单的一下吧，扎金花Demo。目的：golang语言学习实战。。
+简单的写一下吧，扎金花Demo。目的：golang语言学习实战。。
 
 首先本来客户端和服务器的代码在一起的，都是用C#编写。
 
